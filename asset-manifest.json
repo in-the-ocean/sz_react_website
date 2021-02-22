@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/sz_react_website/static/css/main.69648e4d.chunk.css",
+    "main.js": "/sz_react_website/static/js/main.98f93ffa.chunk.js",
+    "main.js.map": "/sz_react_website/static/js/main.98f93ffa.chunk.js.map",
+    "runtime-main.js": "/sz_react_website/static/js/runtime-main.e65de952.js",
+    "runtime-main.js.map": "/sz_react_website/static/js/runtime-main.e65de952.js.map",
+    "static/js/2.d2fbd1b4.chunk.js": "/sz_react_website/static/js/2.d2fbd1b4.chunk.js",
+    "static/js/2.d2fbd1b4.chunk.js.map": "/sz_react_website/static/js/2.d2fbd1b4.chunk.js.map",
+    "static/js/3.c772bce6.chunk.js": "/sz_react_website/static/js/3.c772bce6.chunk.js",
+    "static/js/3.c772bce6.chunk.js.map": "/sz_react_website/static/js/3.c772bce6.chunk.js.map",
+    "index.html": "/sz_react_website/index.html",
+    "static/css/main.69648e4d.chunk.css.map": "/sz_react_website/static/css/main.69648e4d.chunk.css.map",
+    "static/js/2.d2fbd1b4.chunk.js.LICENSE.txt": "/sz_react_website/static/js/2.d2fbd1b4.chunk.js.LICENSE.txt",
+    "static/media/control.mp4": "/sz_react_website/static/media/control.b9703927.mp4",
+    "static/media/hades.mp4": "/sz_react_website/static/media/hades.a1306b9c.mp4",
+    "static/media/logo.6ce24c58.svg": "/sz_react_website/static/media/logo.6ce24c58.svg",
+    "static/media/ori.mp4": "/sz_react_website/static/media/ori.f1c6d0ca.mp4",
+    "static/media/ori_1.jpg": "/sz_react_website/static/media/ori_1.6f7ed5e5.jpg",
+    "static/media/ori_2.jpg": "/sz_react_website/static/media/ori_2.88ee1abc.jpg",
+    "static/media/sekiro.mp4": "/sz_react_website/static/media/sekiro.521102f4.mp4",
+    "static/media/sekiro_1.jpg": "/sz_react_website/static/media/sekiro_1.90e9aaab.jpg",
+    "static/media/sekiro_2.png": "/sz_react_website/static/media/sekiro_2.14a1a4b6.png",
+    "static/media/sekiro_3.jpg": "/sz_react_website/static/media/sekiro_3.6f82b928.jpg",
+    "static/media/sekiro_4.jpg": "/sz_react_website/static/media/sekiro_4.8b538ac0.jpg",
+    "static/media/sekiro_5.jpg": "/sz_react_website/static/media/sekiro_5.b032dfac.jpg",
+    "static/media/sekiro_6.jpg": "/sz_react_website/static/media/sekiro_6.19161cc1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e65de952.js",
+    "static/js/2.d2fbd1b4.chunk.js",
+    "static/css/main.69648e4d.chunk.css",
+    "static/js/main.98f93ffa.chunk.js"
+  ]
+}
