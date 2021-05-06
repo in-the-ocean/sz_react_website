@@ -5,6 +5,7 @@ import Imagedata from './image.js'
 import Videodata from './video.js'
 import Tabledata from './table.js'
 import Emaildata from './email.js'
+import Meetingdata from './meeting.js'
 
 class Body extends Component {
     constructor () {
@@ -20,7 +21,8 @@ class Body extends Component {
             2: <Imagedata/>,
             3: <Videodata/>,
             4: <Tabledata/>,
-            5: <Emaildata/>
+            5: <Emaildata/>,
+            6: <Meetingdata/>
         }
         return content[this.props.active]
     }

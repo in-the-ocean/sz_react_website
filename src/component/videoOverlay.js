@@ -8,7 +8,7 @@ class VideoOverlay extends Component {
             return (
                 <div id="overlay" style={{display: 'flex'}}
                     onClick={(e) => this.props.minimize(e.target, e.currentTarget)}>
-                    <video controls src={this.props.src}/>
+                    <iframe controls src={this.props.src}/>
                 </div>
             )
         } else {
